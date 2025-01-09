@@ -1,7 +1,7 @@
 # A/B Testing for CTR of "Learn More" Button Colors
 
 ## Project Overview
-This project performs an A/B test to analyze whether the Click-Through Rate (CTR) of the "Learn More" button in blue color is equal to the CTR of the "Learn More" button in green color. The test is designed to validate the hypothesis that there is no significant difference between the CTR for both button colors.
+This case study project performs an A/B test to analyze whether the Click-Through Rate (CTR) of the "Learn More" button in blue color is equal to the CTR of the "Learn More" button in green color. The test is designed to validate the hypothesis that there is no significant difference between the CTR for both button colors.
 
 ## Objective
 The hypothesis to be tested is:
@@ -18,18 +18,3 @@ The dataset `data.csv` contains the following columns:
   - `1`: Clicked.
   - `0`: Did not click.
 
-## Steps to Reproduce
-
-1. **Download the dataset**: Download `data.csv` that contains the A/B test data.
-
-2. **Setup environment**:
-   Make sure you have the following Python libraries installed:
-   - `pandas`
-   - `numpy`
-   - `scipy`
-   - `matplotlib`
-   - `seaborn`
-
-   You can install them using pip:
-   ```bash
-   pip install pandas numpy scipy matplotlib seaborn
