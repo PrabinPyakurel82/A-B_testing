@@ -1,7 +1,7 @@
 # A/B Testing for CTR of "Learn More" Button Colors
 
 ## Project Overview
-This case study project performs an A/B test to analyze whether the Click-Through Rate (CTR) of the "Learn More" button in blue color is equal to the CTR of the "Learn More" button in green color. The test is designed to validate the hypothesis that there is no significant difference between the CTR for both button colors.
+This case study project performs an A/B test to analyze whether the Click-Through Rate (CTR) of the "Learn More" button in blue color is equal to the CTR of the "Learn More" button in green color in LunarTech AI's website. The test is designed to validate the hypothesis that there is no significant difference between the CTR for both button colors.
 
 ## Objective
 The hypothesis to be tested is:
